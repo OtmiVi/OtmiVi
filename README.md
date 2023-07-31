@@ -5,10 +5,10 @@
 
 <p>
   Hi, I'm a PHP developer with 1 year of experience:nerd_face:.
-</p>
+</p><br/>
 <p>
   I have experience in working with different CMS systems for stores:technologist:. 
-</p>
+</p><br/>
 <p>
   Worked with Google API, connecting payment systems, and importing and exporting databases:earth_americas:.
 </p>
