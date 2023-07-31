@@ -4,7 +4,9 @@
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="Fire.gif" />
 
 <p>
-  Hi, I'm a PHP developer with 1 year of experience. I have experience in  working with different CMS systems for stores. Worked with Google API, connecting payment systems, and importing and exporting databases
+  Hi, I'm a PHP developer with 1 year of experience:nerd_face:.
+  I have experience in working with different CMS systems for stores:technologist:. 
+  Worked with Google API, connecting payment systems, and importing and exporting databases:earth_americas:.
 </p>
 <a target="_blank" href="https://www.linkedin.com/in/yura-kuziv-2b605124b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://t.me/OtmiVi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
