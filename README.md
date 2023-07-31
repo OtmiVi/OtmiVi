@@ -1,7 +1,7 @@
 # Hi, I'm Yura :wave:
 
 ## About Me
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="Fire.gif" />
+<img align="right" margin=10px alt="Bred the penguin chillin' by the fire." width="350" src="Fire.gif" />
 
 <p>
   Hi, I'm a PHP developer with 1 year of experience:nerd_face:.<br/>
