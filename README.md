@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi, I'm Yura :wave:
 
+## Life
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="Fire.gif" />
 
 :shipit: CS + REU Fellow @ [**University of Rochester**][ur]  
@@ -18,19 +19,5 @@
 [roclab]: https://roclab.io
 
 
-
+## Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtmiVi&layout=compact)
-<!--
-**OtmiVi/OtmiVi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
