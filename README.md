@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
+<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="Fire.gif" />
 
 :shipit: CS + REU Fellow @ [**University of Rochester**][ur]  
 :shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
